@@ -1,0 +1,15 @@
+{
+  "appId": "com.mangelo.pkmn-sv-sandwich-calculator",
+  "files": ["dist-electron", "dist-react" ],
+  "icon": "public/256px-Bag_Sandwich_Sprite.png",
+  "mac": {
+    "target": "dmg"
+  },
+  "linux": {
+    "target": ["AppImage", "deb"],
+    "category": "Utility"
+  },
+  "win": {
+    "target": ["portable", "msi"]
+  }
+}
