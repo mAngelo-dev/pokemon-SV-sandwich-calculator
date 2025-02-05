@@ -1,0 +1,103 @@
+{
+  "_comment": "Data from https://www.serebii.net/scarletviolet/sandwichingredients.shtml - 05/02/2025",
+  "data": [
+    {
+      "name": "Apple",
+      "img": "src/ui/images/ingredients/apple.png",
+      "flavors": [
+        { "flavor": "Sweet", "value": 4 },
+        { "flavor": "Sour", "value": 3 },
+        { "flavor": "Bitter", "value": 1 }
+      ],
+      "meal_powers": [
+        { "power": "Egg", "value": 4 },
+        { "power": "Catching", "value": -1 },
+        { "power": "Item Drop", "value": 7 },
+        { "power": "Humungo", "value": -5 }
+      ],
+      "type_boosts": [
+        { "type": "Flying", "value": 7 },
+        { "type": "Steel", "value": 7 },
+        { "type": "Ice", "value": 7 }
+      ]
+    },
+    {
+      "name": "Avocado",
+      "img": "src/ui/images/ingredients/avocado.png",
+      "flavors": [
+        {"flavor": "Sweet", "value": 3},
+        {"flavor": "Sour", "value": 1}
+      ],
+      "meal_powers": [
+        {"power": "Catching", "value": 4},
+        {"power": "Raid", "value": -1},
+        {"power": "Encounter", "value": 7}
+      ],
+      "type_boosts": [
+        {"type": "Dragon", "value": 6}
+      ]
+    },
+    {
+      "name": "Bacon",
+      "img": "src/ui/images/ingredients/bacon.png",
+      "flavors": [
+        {"flavor": "Sweet", "value": 1},
+        {"flavor": "Salty", "value": 5},
+        {"flavor": "Sour", "value": 1},
+        {"flavor": "Bitter", "value": 4}
+      ],
+      "meal_powers": [
+        {"power": "Catching", "value": 4},
+        {"power": "Raid", "value": -1},
+        {"power": "Encounter", "value": 7}
+      ],
+      "type_boosts": [
+        {"type": "Rock", "value": 6}
+      ]
+    },
+    {
+      "name": "Banana",
+      "img": "src/ui/images/ingredients/banana.png",
+      "flavors": [
+        {"flavor": "Sweet", "value": 4},
+        {"flavor": "Sour", "value": 1}
+      ],
+      "meal_powers": [
+        {"power": "Egg", "value": 4},
+        {"power": "Catching", "value": -1},
+        {"power": "Item Drop", "value": 7},
+        {"power": "Humungo", "value": -5}
+      ],
+      "type_boosts": [
+        {"type": "Normal", "value": 7},
+        {"type": "Bug", "value": 7},
+        {"type": "Electric", "value": 7}
+      ]
+    },
+    {
+      "name": "Basil",
+      "img": "src/ui/images/ingredients/basil.png",
+      "flavors": [
+        {"flavor": "Salty", "value": 1},
+        {"flavor": "Sour", "value": 1},
+        {"flavor": "Bitter", "value": 4}
+      ],
+      "meal_powers": [
+        {"power": "Egg", "value": 2},
+        {"power": "Raid", "value": 2},
+        {"power": "Encounter", "value": -2}
+        ],
+      "type_boosts": [
+         {"type": "Fire", "value": 1},
+         {"type": "Water", "value": 1},
+         {"type": "Grass", "value": 1},
+         {"type": "Electric", "value": 1},
+         {"type": "Psychic", "value": 1},
+         {"type": "Ice", "value": 1},
+         {"type": "Dragon", "value": 1},
+         {"type": "Dark", "value": 1},
+         {"type": "Fairy", "value": 1}
+      ]
+    }
+  ]
+}
